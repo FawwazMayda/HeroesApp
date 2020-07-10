@@ -10,7 +10,7 @@ import UIKit
 
 struct Hero: Identifiable {
     var id: Int
+    var photo: String
     var name: String
     var desc: String
-    var image: UIImage
 }
